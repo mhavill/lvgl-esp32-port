@@ -1,3 +1,6 @@
 managed_components/
 build/
 .devcontainer/
+.vscode/settings.json
+sdkconfig
+dependencies.lock
